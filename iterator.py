@@ -1,3 +1,5 @@
+"""Файл с итератором, выдающим атрибуты веб-страниц"""
+
 import requests
 urls=('http://wiki.com', 'http://oreilly.com', 'http://twitter.com',
        'http://rtf.urfu.ru')
